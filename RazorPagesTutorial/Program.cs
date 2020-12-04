@@ -21,11 +21,13 @@ namespace RazorPagesTutorial
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
-                    // prueba 
+                    // prueba kkhjhkjhjhkjh
                     // prueba 2
                     // prueba 33
                     // Test 248
+                      // Test JCM
                     ///XXXYYYZZZ
+                    ///
                 });
     }
 }
