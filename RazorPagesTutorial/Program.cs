@@ -21,6 +21,7 @@ namespace RazorPagesTutorial
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                    // prueba 
                 });
     }
 }
